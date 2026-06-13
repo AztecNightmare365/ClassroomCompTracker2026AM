@@ -1,0 +1,12 @@
+D:\ClassroomComputerTracker\Release\ClassroomComputerTracker.exe
+D:\ClassroomComputerTracker\Release\ClassroomComputerTracker.dll
+D:\ClassroomComputerTracker\Release\ClassroomComputerTracker.deps.json
+D:\ClassroomComputerTracker\Release\ClassroomComputerTracker.runtimeconfig.json
+D:\ClassroomComputerTracker\Release\ClassroomComputerTracker.pdb
+D:\ClassroomComputerTracker\Release\EntityFramework.SqlServer.dll
+D:\ClassroomComputerTracker\Release\EntityFramework.dll
+D:\ClassroomComputerTracker\Release\System.Data.SQLite.dll
+D:\ClassroomComputerTracker\Release\System.Data.SqlClient.dll
+D:\ClassroomComputerTracker\Release\System.Data.SQLite.EF6.dll
+D:\ClassroomComputerTracker\Release\sni.dll
+D:\ClassroomComputerTracker\Release\SQLite.Interop.dll

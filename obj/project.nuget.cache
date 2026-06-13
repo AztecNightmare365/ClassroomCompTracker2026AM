@@ -1,0 +1,47 @@
+{
+  "version": 2,
+  "dgSpecHash": "jzT1X9AbfF0=",
+  "success": true,
+  "projectFilePath": "D:\\ClassroomComputerTracker\\ClassroomComputerTracker\\ClassroomComputerTracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aqmey\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\aqmey\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Users\\aqmey\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\aqmey\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\aqmey\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\aqmey\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.118\\stub.system.data.sqlite.core.netstandard.1.0.118.nupkg.sha512",
+    "C:\\Users\\aqmey\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\aqmey\\.nuget\\packages\\system.data.sqlclient\\4.8.1\\system.data.sqlclient.4.8.1.nupkg.sha512",
+    "C:\\Users\\aqmey\\.nuget\\packages\\system.data.sqlite\\1.0.118\\system.data.sqlite.1.0.118.nupkg.sha512",
+    "C:\\Users\\aqmey\\.nuget\\packages\\system.data.sqlite.core\\1.0.118\\system.data.sqlite.core.1.0.118.nupkg.sha512",
+    "C:\\Users\\aqmey\\.nuget\\packages\\system.data.sqlite.ef6\\1.0.118\\system.data.sqlite.ef6.1.0.118.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'System.Data.SqlClient' 4.8.1 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-8g2p-5pqh-5jmc",
+      "projectPath": "D:\\ClassroomComputerTracker\\ClassroomComputerTracker\\ClassroomComputerTracker.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\ClassroomComputerTracker\\ClassroomComputerTracker\\ClassroomComputerTracker.csproj",
+      "libraryId": "System.Data.SqlClient",
+      "targetGraphs": [
+        "net10.0-windows7.0",
+        "net10.0-windows7.0/win-x64"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'System.Data.SqlClient' 4.8.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-98g6-xh36-x2p7",
+      "projectPath": "D:\\ClassroomComputerTracker\\ClassroomComputerTracker\\ClassroomComputerTracker.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\ClassroomComputerTracker\\ClassroomComputerTracker\\ClassroomComputerTracker.csproj",
+      "libraryId": "System.Data.SqlClient",
+      "targetGraphs": [
+        "net10.0-windows7.0",
+        "net10.0-windows7.0/win-x64"
+      ]
+    }
+  ]
+}
